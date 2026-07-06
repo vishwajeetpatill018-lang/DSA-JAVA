@@ -21,9 +21,11 @@ class Solution {
         int i =0;
         int j = n-1;
         while(i<j){
-            int a = ans.get(i);
-            int b = ans.get(j);
-            if(a!=b){
+            // int a = ans.get(i);
+            // int b = ans.get(j);
+            // if(a!=b)
+            if(!ans.get(i).equals(ans.get(j)))
+            {
                 return false;
             }
             i++;
