@@ -13,7 +13,7 @@ class Node
 */
 class Solution {
     Node deleteNode(Node head, int x) {
-       if(x ==1){
+       if(x == 1){
            return head.next;
        }
         Node t = head;
