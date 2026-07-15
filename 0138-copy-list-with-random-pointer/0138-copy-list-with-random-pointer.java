@@ -75,6 +75,8 @@ class Solution {
             t = t.next;
             t1 = t1.next;
 
+            if(t== null) break;
+
             t2.next = t;
             t = t.next;
             t2 = t2.next;
