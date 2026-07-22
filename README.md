@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0682-baseball-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,4 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0138-copy-list-with-random-pointer) |
+## Array
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
