@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0682-baseball-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0682-baseball-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
