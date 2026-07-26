@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0682-baseball-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0682-baseball-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Simulation
 |  |
 | ------- |
@@ -73,5 +75,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
