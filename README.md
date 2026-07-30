@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0682-baseball-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -77,7 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
