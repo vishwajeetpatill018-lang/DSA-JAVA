@@ -53,8 +53,8 @@ class Solution {
     
     public int maxArea(int mat[][]) {
        
-       int m = mat.length;
-       int n = mat[0].length;
+       int m = mat.length;  // Rows
+       int n = mat[0].length; // Columns
        
        for(int i = 1; i<m; i++){
            for(int j = 0; j<n; j++){
