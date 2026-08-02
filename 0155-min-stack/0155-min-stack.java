@@ -2,7 +2,7 @@
 //     Stack<Integer> st;
 //     Stack<Integer> minSt;
 //     public MinStack() {
-//         st = new Stack<>();
+//         st= new Stack<>();
 //         minSt = new Stack<>();
         
 //     }
