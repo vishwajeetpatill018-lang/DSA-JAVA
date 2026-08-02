@@ -20,7 +20,7 @@ class Solution {
             }
             st.push(i);
         }
-        // Empty stack
+        // Empty stack or create new stack st2
         while(st.size() > 0){
             st.pop();
         }
