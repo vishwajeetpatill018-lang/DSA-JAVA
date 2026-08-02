@@ -13,6 +13,7 @@ class Solution {
         for(int i =0; i<n; i++){
             st.push(i);
         }
+        // Pop top 2 persons and check whether they know each other
         while(st.size() > 1){
             int a = st.pop();
             int b = st.pop();
@@ -37,9 +38,10 @@ class Solution {
         }
         
         if(st.size() == 0){
-            // No celebrity
+            // No celebrity exists
             return -1;
         }
+        // one person will remain at last , check both row and column if he knows someone or not
         else{
             int ele = st.pop();
             for(int j = 0; j<n; j++){
