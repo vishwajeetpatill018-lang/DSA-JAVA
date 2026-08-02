@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -73,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -98,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/vishwajeetpatill018-lang/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
